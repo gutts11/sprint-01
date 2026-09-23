@@ -22,7 +22,7 @@ Bu proje, Kampüs Etkinlikleri uygulamasının iskeletini **yalnızca HTML** (CS
 
 ## Canlı Adres (Vercel)
 
-- **Vercel Live URL:** [https://kampus-etkinlik-sprint1.vercel.app](https://kampus-etkinlik-sprint1.vercel.app)
+- **Vercel Live URL:** [sprint-01-gamma.vercel.app](sprint-01-gamma.vercel.app)
 
 ## Git ve Sürüm
 
